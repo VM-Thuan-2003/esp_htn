@@ -62,6 +62,9 @@ void main_init(void){
 
     bool isConnect;
     // check data eeprom
+
+    WiFi.setOutputPower(19.25);
+
     if (strlen(storedCredentials.ssid) > 0 && strlen(storedCredentials.password) > 0){
         // it has data from eeprom
         isConnect = wifiManager.autoConnect(storedCredentials.ssid, storedCredentials.password);

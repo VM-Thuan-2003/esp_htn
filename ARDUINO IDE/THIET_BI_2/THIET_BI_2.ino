@@ -20,11 +20,12 @@ void onDataReceiver(uint8_t * mac, uint8_t *incomingData, uint8_t len) {
 }
 void setup() {
   Serial.begin(115200);
+  
+  WiFi.mode(WIFI_STA);
   WiFi.disconnect();
-  ESP.eraseConfig();
+  // ESP.eraseConfig();
  
   // Wifi STA Mode
-  WiFi.mode(WIFI_STA);
   // Get Mac Add
   Serial.print("Mac Address: ");
   Serial.print(WiFi.macAddress());

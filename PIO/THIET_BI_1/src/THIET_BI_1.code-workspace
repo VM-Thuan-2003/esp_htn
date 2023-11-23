@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "THIET_BI_1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"eeprom"
+		],
+		"files.associations": {
+			"*.c": "c",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp"
+		}
+	}
+}

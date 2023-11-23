@@ -38,8 +38,8 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [
-    "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/include",
-    "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/src",
+    "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1_NEW/include",
+    "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1_NEW/src",
     "C:/Users/ADMIN/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
     "C:/Users/ADMIN/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
     "C:/Users/ADMIN/.platformio/packages/toolchain-xtensa/include",
@@ -101,7 +101,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "C_Cpp.errorSquiggles": "disabled",
-  "cmake.sourceDirectory": "E:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/.pio/libdeps/esp12e/ArduinoJson/src"
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/src",
-      "program": "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/src/build/Debug/outDebug",
+      "cwd": "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1",
+      "program": "e:/WORKPACE/ESP_HTN/PIO/THIET_BI_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/Users/ADMIN/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-gdb.exe",
       "setupCommands": [
